@@ -1,0 +1,8 @@
+zookeeper:
+  connectString: "localhost:2181"
+  leaderPath: "/hello-zookeeper/leadership"
+  crudPath: "/hello-zookeeper/crud"
+
+logging:
+  level:
+    root: info
